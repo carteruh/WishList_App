@@ -26,15 +26,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/a/xmP4VuW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/xmP4VuW"  ><a href="//imgur.com/a/xmP4VuW">Wishlist</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
