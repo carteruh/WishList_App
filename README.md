@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://imgur.com/a/xmP4VuW)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
