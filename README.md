@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
